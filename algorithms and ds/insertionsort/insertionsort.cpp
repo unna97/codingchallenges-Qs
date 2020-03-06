@@ -16,7 +16,6 @@ int main(int argc, char const *argv[]) {
   }
   for (int j = 0; j < count; j++) {
     /* code */
-
   }
   return 0;
 }
